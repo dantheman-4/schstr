@@ -1,0 +1,56 @@
+body{
+    background-color: whitesmoke;
+}
+.header {
+    margin-left:auto;
+    margin-right:auto;
+    width:450px;
+    text-align: center;
+    border:solid black;
+}
+.logo {
+    height: 50px;
+    width:50px;
+}
+.display-area {
+    display:block;
+    width:90%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    justify-content: center;
+    border: solid maroon 3px;
+}
+img {
+    display: block;
+    width:75%;
+    height:75%;
+    margin-left:auto;
+    margin-right:auto;
+}
+footer {
+    background-color:maroon;
+    color:white;
+}
+.footer-content{
+    padding: 15px 15px 15px 15px;
+}
+.right-align {
+    text-align: right;
+}
+.cost {
+    font-size:x-large;
+    color:gold;
+    background-color: maroon;
+    width:100px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:25px;
+}
+button {
+    background-color: maroon;
+    color:white;
+    border-radius:0px 0px 0px 100px;
+    height:45px;
+    width:100%;
+}
